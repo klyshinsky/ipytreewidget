@@ -7,8 +7,7 @@ A tree is a node or list of nodes.
 
 A node is a dictionary containing string keys associated with proper values:
 
-*text* - text label for a node.
-
+*text* - text label for a node.<br>
 *hint* - extra information connected to a node.
 
 *childs* - list of nodes.
