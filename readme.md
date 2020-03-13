@@ -12,4 +12,8 @@ A node is a dictionary containing string keys associated with proper values:<br>
 *text-color*, *text-bkcolor* - color of the text and background of a node. Use HTML colors here.<br>
 *hint-color*, *hint-bkcolor* - color of the hint's text and background of a node. Use HTML colors here.<br>
 
+<<<<<<< HEAD
 ![]("example.png")
+=======
+<img src="example.png">
+>>>>>>> 631a4f5f7dfc415025c10ceed559522c25084020
